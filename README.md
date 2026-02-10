@@ -2,17 +2,17 @@
 
 Este projeto foi desenvolvido com foco em estética, responsividade e usabilidade.
 
-✨ Features
+ Features
 
-📄 Página de adoção com informações e requisitos
+ Página de adoção com informações e requisitos
 
-📬 Formulário de contato
+ Formulário de contato
 
-📱 Layout responsivo pra funcionar suave no celular
+ Layout responsivo pra funcionar suave no celular
 
-💅 Design clean focado em tipografia e organização
+ Design clean focado em tipografia e organização
 
-🛠️ Tecnologias usadas:
+ Tecnologias usadas:
 
 HTML5
 
